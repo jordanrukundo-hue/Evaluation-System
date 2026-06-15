@@ -1,0 +1,6 @@
+{
+  "name": "Internship Logging and Evaluation System",
+  "description": "Internship logging, supervisor evaluation, and academic grading system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
